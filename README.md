@@ -55,3 +55,6 @@ container.add(BorderLayout.NORTH, button); // Добавляем кнопку н
 * [docs.oracle.com/uiswing](https://docs.oracle.com/javase/tutorial/uiswing/TOC.html)
 * [pro-prof.com/java-swing-основы](https://pro-prof.com/forums/topic/java-swing-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B)
 * [java-online.ru/libs-swing](https://java-online.ru/libs-swing.xhtml)
+
+##
+* Плагин для IntelliJ IDEA https://www.jetbrains.com/help/idea/design-gui-using-swing.html

@@ -50,3 +50,8 @@ Container container = getContentPane()  // Область окна
 // container.add(button);               // Добавляем кнопку на окно - займет все пространство
 container.add(BorderLayout.NORTH, button); // Добавляем кнопку на окно - окажется сверху
 ```
+
+## Для ознакомления:
+* [docs.oracle.com/uiswing](https://docs.oracle.com/javase/tutorial/uiswing/TOC.html)
+* [pro-prof.com/java-swing-основы](https://pro-prof.com/forums/topic/java-swing-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B)
+* [java-online.ru/libs-swing](https://java-online.ru/libs-swing.xhtml)
